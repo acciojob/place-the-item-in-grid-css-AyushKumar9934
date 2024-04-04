@@ -4,8 +4,8 @@
 	
 	size:200px;
 	display:grid;
-	grid-template-columns:repeat(2,1fr);
-	grid-template-rows:repeat(2,1fr);
+	grid-template-columns:repeat(2,100px);
+	grid-template-rows:repeat(2,100px);
 	border:2px solid green;
 	
 }
